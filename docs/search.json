@@ -14,7 +14,7 @@
     "href": "github.html",
     "title": "1  GitHub Setup",
     "section": "",
-    "text": "Steps to set up this GitHub Repository",
+    "text": "Steps to setting up this GitHub Repository",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
     ]
@@ -34,7 +34,7 @@
     "href": "github.html#cloned-to-a-local-direcotry-and-set-up-repository-as-an-r-project",
     "title": "1  GitHub Setup",
     "section": "1.2 Cloned to a local direcotry and set up repository as an R project",
-    "text": "1.2 Cloned to a local direcotry and set up repository as an R project\n\nCloned repository with RStudio to create an associated .Rproj file by navigating to File &gt; New Project &gt; Version Control &gt; Git and paste the repository URL\nStaged, committed, and pushed the new .Rproj file",
+    "text": "1.2 Cloned to a local direcotry and set up repository as an R project\n\nCloned repository with RStudio to create an associated .Rproj file by navigating to File &gt; New Project &gt; Version Control &gt; Git and then pasting the repository URL\nStaged, committed, and pushed the new .Rproj file",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "github.html#create-a-new-chapter-in-the-book",
     "title": "1  GitHub Setup",
     "section": "1.6 Create a new chapter in the book",
-    "text": "1.6 Create a new chapter in the book\n\nCreated a new quarto file called GitHub.qmd in the R Studio project\nAdded the name of the new GitHub quarto file to the _quarto.yml list of chapters\nIn the build tab, selected Render Book &gt; All Formats\nStaged, committed, and pushed the new GitHub.qmd file along with the updated /docs folder and _quarto.yml file",
+    "text": "1.6 Create a new chapter in the book\n\nCreated a new quarto file called github.qmd in the R Studio project\nAdded the name of the new GitHub quarto file to the _quarto.yml list of chapters\nIn the build tab, selected Render Book &gt; All Formats\nStaged, committed, and pushed the new github.qmd file along with the updated /docs and _quarto.yml file",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
     ]

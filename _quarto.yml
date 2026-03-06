@@ -11,6 +11,11 @@ book:
     - index.qmd
     - github.qmd
     
+site-url: https://adyadyan.github.io/MAP-5629-Capstone/
+repo-url: https://github.com/adyadyan/MAP-5629-Capstone
+repo-actions: [edit, source, issue]
+search: true
+    
 format:
   html:
     theme: cosmo

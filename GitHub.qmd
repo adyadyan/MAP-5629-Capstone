@@ -42,4 +42,4 @@ c. Refreshed the browser and copied the URL
 a. Created a new quarto file called [github.qmd](https://github.com/adyadyan/MAP-5629-Capstone/blob/main/github.qmd) in the R Studio project
 b. Added the name of the new GitHub quarto file to the [_quarto.yml](https://github.com/adyadyan/MAP-5629-Capstone/blob/main/_quarto.yml) list of chapters
 c. In the build tab, selected Render Book > All Formats
-d. Staged, committed, and pushed the new [github.qmd](https://github.com/adyadyan/MAP-5629-Capstone/blob/main/github.qmd) file along with the updated /docs folder and [_quarto.yml](https://github.com/adyadyan/MAP-5629-Capstone/blob/main/_quarto.yml) file
+d. Staged, committed, and pushed the new [github.qmd](https://github.com/adyadyan/MAP-5629-Capstone/blob/main/github.qmd) file along with the updated /docs and [_quarto.yml](https://github.com/adyadyan/MAP-5629-Capstone/blob/main/_quarto.yml) file
