@@ -13,7 +13,7 @@ format:
 ## Created a new repository on GitHub
 
 a. Logged into GitHub and clicked on the "Create new..." icon
-b. Selected "New repository" ad specified owner, name, and description
+b. Selected "New repository" and specified owner, name, and description
 c. Chose public visibility, turned on README, and added the R .gitignore template 
 d. Clicked on Create new repository, then copied the repository URL
 
