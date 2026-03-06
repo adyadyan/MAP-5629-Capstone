@@ -50,31 +50,41 @@
     ]
   },
   {
-    "objectID": "github.html#render-html-and-pdf",
-    "href": "github.html#render-html-and-pdf",
+    "objectID": "github.html#rendered-html-and-pdf",
+    "href": "github.html#rendered-html-and-pdf",
     "title": "1  GitHub Setup",
-    "section": "1.4 Render html and pdf",
-    "text": "1.4 Render html and pdf\n\nRestarted RStudio for the Build tab to appear\nIn the build tab, selected Render Book &gt; All Formats\nStaged, committed, and pushed the new docs folder",
+    "section": "1.4 Rendered html and pdf",
+    "text": "1.4 Rendered html and pdf\n\nRestarted RStudio for the Build tab to appear\nIn the build tab, selected Render Book &gt; All Formats\nStaged, committed, and pushed the new docs folder",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
     ]
   },
   {
-    "objectID": "github.html#configure-github-pages",
-    "href": "github.html#configure-github-pages",
+    "objectID": "github.html#configured-github-pages",
+    "href": "github.html#configured-github-pages",
     "title": "1  GitHub Setup",
-    "section": "1.5 Configure GitHub pages",
-    "text": "1.5 Configure GitHub pages\n\nNavigated to Pages in the Repository settings on GitHub\nSelected and saved the main Branch and /docs folder as the source\nRefreshed the browser and copied the URL",
+    "section": "1.5 Configured GitHub pages",
+    "text": "1.5 Configured GitHub pages\n\nNavigated to Pages in the Repository settings on GitHub\nSelected and saved the main Branch and /docs folder as the source\nRefreshed the browser and copied the URL",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
     ]
   },
   {
-    "objectID": "github.html#create-a-new-chapter-in-the-book",
-    "href": "github.html#create-a-new-chapter-in-the-book",
+    "objectID": "github.html#created-a-new-chapter-in-the-book",
+    "href": "github.html#created-a-new-chapter-in-the-book",
     "title": "1  GitHub Setup",
-    "section": "1.6 Create a new chapter in the book",
-    "text": "1.6 Create a new chapter in the book\n\nCreated a new quarto file called github.qmd in the R Studio project\nAdded the name of the new GitHub quarto file to the _quarto.yml list of chapters\nIn the build tab, selected Render Book &gt; All Formats\nStaged, committed, and pushed the new github.qmd file along with the updated /docs and _quarto.yml file",
+    "section": "1.6 Created a new chapter in the book",
+    "text": "1.6 Created a new chapter in the book\n\nCreated a new quarto file called github.qmd in the R Studio project\nAdded the name of the new GitHub quarto file to the _quarto.yml list of chapters\nIn the build tab, selected Render Book &gt; All Formats\nStaged, committed, and pushed the new github.qmd file along with the updated /docs and _quarto.yml file",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
+    ]
+  },
+  {
+    "objectID": "github.html#protected-the-main-branch-and-required-all-future-changes-to-be-submitted-via-pull-requests",
+    "href": "github.html#protected-the-main-branch-and-required-all-future-changes-to-be-submitted-via-pull-requests",
+    "title": "1  GitHub Setup",
+    "section": "1.7 Protected the main branch and required all future changes to be submitted via pull requests",
+    "text": "1.7 Protected the main branch and required all future changes to be submitted via pull requests\n\nConfigured required use of pull requests to prevent future merge conflicts by navigating to Settings &gt; Branches &gt; Add classic branch protection rule and then specifying the branch name pattern “main” along with selecting “Require a pull request before merging”",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>GitHub Setup</span>"
     ]
